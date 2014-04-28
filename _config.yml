@@ -1,7 +1,7 @@
 name: Pot and Spoon
 markdown: redcarpet
 pygments: true
-BASEURL: /
+BASEURL:
 
 readingPdfDownload: /pdf/PotandSpoonFIN_foronline.pdf
 printingPdfDownload: /pdf/PotandSpoonFIN_PRINTER.pdf
