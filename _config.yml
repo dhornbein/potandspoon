@@ -3,5 +3,5 @@ markdown: redcarpet
 pygments: true
 BASEURL:
 
-readingPdfDownload: /pdf/PotandSpoonFIN_foronline.pdf
-printingPdfDownload: /pdf/PotandSpoonFIN_PRINTER.pdf
+readingPdfDownload: pdf/PotandSpoonFIN_foronline.pdf
+printingPdfDownload: pdf/PotandSpoonFIN_PRINTER.pdf
