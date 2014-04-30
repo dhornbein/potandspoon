@@ -5,3 +5,7 @@ BASEURL:
 
 readingPdfDownload: pdf/PotandSpoonFIN_foronline.pdf
 printingPdfDownload: pdf/PotandSpoonFIN_PRINTER.pdf
+
+email:
+ jerry: jerry@potandspoon.com
+ ruthie: ruthie@potandspoon.com
